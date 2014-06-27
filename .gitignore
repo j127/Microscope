@@ -4,3 +4,4 @@
 *.pyc
 .meteor/
 *.lock
+packages/
